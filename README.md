@@ -37,7 +37,7 @@ set.seed(42)
 ```
 
 ```{r  message=FALSE, warning=FALSE}
-dados = read.csv('~/UFMG/2023.1/TARIFACAO SEGUROS/trabalho final - Copia/dados_palio_1_0.csv',
+dados = read.csv('dados_palio_1_0.csv',
                  sep = ';')
 
 # ETL DO DATASET
@@ -158,24 +158,8 @@ listed_tables <- list(tab_nb1, tab_nb2)
 gt_two_column_layout(listed_tables)
 
 ```  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
+
+
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 dados_teste$pred_freq =  predict(sm.nb2, dados_teste, type="response")
@@ -274,25 +258,6 @@ listed_tables <- list(tab_sm.p, tab_mod.qp)
 
 gt_two_column_layout(listed_tables)
 ```  
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br>  
 
 Neste vemos a precença de algumas variaveis, que, a um nivel de significaqncia de 1% não apresentan significancia. 
 
@@ -426,25 +391,7 @@ listed_tables <- list(tab_sm.gamma, tab_sm.normal)
 gt_two_column_layout(listed_tables)
 
 ```
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br>  
+  
 
 Inicialmente, é importante destacar que as variáveis de maior significância encontram-se incorporadas no modelo gaussiano. Posteriormente, verificaremos a aderência superior do modelo gaussiano, conforme evidenciado no gráfico de envelope abaixo. 
 
@@ -471,16 +418,6 @@ media_norm = round(mean(dadaos_teste_severidade$pred_severidade),2)
 media_gm = round(mean(dadaos_teste_severidade_gamma$pred_severidade_gamma),2)
 
 ```
-
-
-|Frequência  `r media_fre`    | Severidade `r media_sev`     |
-|-------------: | :-------------: | :-------------: |  :-------------: |
-|Binomaila Negativo (s/ pesos)  `r media_bn`   | Log Gaussiano `r media_norm` |  
-|Quasi Poisson    `r media_qp`   | Gamma `r media_gm` |  
-|Binomaila Negativo (c/ pesos) `r media_bn2` | |
-|Poisson   `r media_p` |   |
-
-
 
 
 ### Modelo Binomial Negativo para estimar a Frequência
