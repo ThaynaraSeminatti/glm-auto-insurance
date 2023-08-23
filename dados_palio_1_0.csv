@@ -1,0 +1,111 @@
+CATEGORIA;REGIAO;GRUPO;ANO_MODELO;SEXO_CONDUTOR;FAIXA_ETARIA;IS_MEDIA_REAL;EXPOSTOS;PREMIO_MEDIO;FREQ_INCENDIO_ROUBO;INDENI_INCENDIO_ROUBO;FREQ_COLISAO;INDENI_COLI;FREQ_OUTRAS;INDEN_OUTRAS
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;23307;48;1099;2;1022;2;11227;16;6286
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;24307;435;906;18;81925;19;232955;106;50338
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;23523;568;836;11;27369;27;270323;101;58119
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;23301;362;810;6;31178;7;47593;66;25873
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;22662;462;775;11;46391;22;163387;142;32589
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;21861;51;1181;1;519;0;0;8;6134
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;23278;457;912;4;27584;24;169271;89;39596
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;23126;540;853;15;32400;20;186635;81;49803
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;22986;392;829;4;16992;22;160718;77;39384
+Passeio nacional;ES - Espírito Santo;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;22675;731;776;11;33547;34;230756;120;114933
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;21744;223;1046;9;30892;15;97023;44;12760
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;22883;2144;912;98;679903;92;506597;448;347009
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;22322;3207;834;119;670462;163;997294;594;317101
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;21708;2443;816;74;395199;110;565368;495;319381
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;21189;3004;759;131;180327;109;834611;755;338418
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;21126;231;1157;10;6343;27;233185;24;32944
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;22255;1628;957;69;369487;108;701725;374;205846
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;21720;2410;848;105;468691;131;1196195;437;258318
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;21224;2121;831;62;318807;83;473183;358;267996
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;20943;4005;757;100;400329;123;868263;623;476519
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;21583;103;1025;0;0;5;32902;12;4200
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;22529;817;803;19;136076;32;275935;127;98527
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;22424;844;738;20;11479;38;208026;164;125282
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;22011;651;743;7;26870;23;166410;87;33876
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;21827;924;693;8;3927;37;184541;188;83950
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;21318;100;1197;2;1423;12;46160;27;8779
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;22099;675;852;20;45707;36;258996;157;89526
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;22064;757;780;21;32110;41;257467;179;148244
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;22094;612;756;7;40753;24;116770;74;77483
+Passeio nacional;MG - Sul;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;21744;1412;681;10;29998;64;412057;205;159312
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;22795;114;1050;4;2062;10;75024;24;13504
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;23220;713;888;28;105093;41;312217;145;84460
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;23269;817;800;30;55214;39;230181;142;96666
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;22516;663;812;23;90446;42;331939;94;64692
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;21716;1040;751;24;71157;60;203796;172;94049
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;22043;107;1070;5;3517;6;26108;12;8326
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;23033;457;938;13;53610;28;199759;76;57247
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;22423;536;855;27;59951;54;349826;122;71653
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;22401;518;825;18;90714;31;326126;69;35157
+Passeio nacional;MG - Triângulo mineiro;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;21855;1113;742;40;57367;60;357622;127;72650
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;25298;10;1132;0;0;1;7197;0;0
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;22964;139;838;11;8431;9;19649;26;39871
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;22633;234;773;5;49266;12;115379;29;16773
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;22189;199;742;4;36530;12;47763;31;11637
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;22149;276;716;6;3770;18;201474;49;24491
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;19741;15;1167;0;0;1;13810;1;994
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;22599;128;918;3;2322;3;18976;17;9236
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;22366;194;868;4;2476;20;116907;54;49090
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;21531;152;848;5;2541;10;40191;22;10922
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;21847;374;748;5;29494;16;146806;35;24823
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;21286;35;1159;0;0;2;4168;7;2140
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;23164;404;978;11;53961;19;147227;138;80867
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;22792;539;913;25;79602;14;135623;133;72625
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;22479;508;899;22;30715;14;82795;135;70742
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;21979;771;837;26;46228;19;179774;233;109981
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;21083;50;1310;2;1006;3;30863;15;4388
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;21941;412;1090;10;125993;14;119911;110;42385
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;21601;576;943;17;91536;20;164318;136;68796
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;21626;461;904;17;34866;21;171256;119;58779
+Passeio nacional;RJ - Interior;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;21283;1184;825;42;71196;33;206134;218;146492
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;22285;63;1825;3;35501;0;0;26;27918
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;23412;686;1410;32;192044;27;277855;224;122814
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;22531;1238;1297;78;498864;24;149381;463;246175
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;21291;1143;1181;91;258878;33;236644;461;153564
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;20304;2177;995;221;368554;49;294994;1001;281301
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;21325;97;1580;5;48729;7;99685;16;2192
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;21875;624;1424;27;112850;25;207687;238;118839
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;21487;995;1285;42;435904;32;280019;376;250494
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;20120;1019;1175;43;169893;21;172233;296;149541
+Passeio nacional;RJ - Met. do Rio de Janeiro;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;19788;2762;1063;160;364969;43;437272;706;275794
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;16479;21;1524;2;1016;1;6602;6;985
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;22351;174;1049;2;1002;9;53114;92;16534
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;21952;217;1107;0;0;6;68413;169;45934
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;20149;182;984;2;11619;3;9044;142;32369
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;20619;314;850;6;64895;9;75694;331;68247
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;15213;20;1257;0;0;2;12565;10;6031
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;19473;165;1132;7;75242;8;76144;99;41498
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;21102;229;1028;6;28049;12;215840;140;68905
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;21240;203;989;4;11527;8;47239;86;23529
+Passeio nacional;SP - Litoral Norte e Baixada Santista;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;19570;416;852;5;37310;15;91788;342;101367
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;19179;364;1345;15;204188;6;45670;157;75059
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;20271;2478;1120;91;1004378;58;536447;1205;464631
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;19819;3686;1044;147;1093843;75;493109;1955;831188
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;18793;3102;971;112;1013076;55;443514;2002;638727
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;17991;4535;881;128;849765;70;500278;4087;802612
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;18653;643;1188;25;271497;23;231082;177;147857
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;19490;2831;1131;103;1250856;72;611563;1117;733597
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;19084;3337;1030;101;880018;109;833430;1349;680870
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;18252;3026;979;64;489506;72;556681;1300;783639
+Passeio nacional;SP - Met. de São Paulo;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;17808;6115;867;123;789617;86;611652;3265;856820
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;20924;605;986;10;48792;34;230622;122;38992
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;21930;3526;816;79;409604;204;1240078;828;639067
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;21495;4108;763;80;423962;195;1002812;894;379129
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;20959;3338;727;53;201681;140;763889;717;378710
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;20515;4799;667;42;63347;177;818064;1285;354874
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;20882;568;1087;28;120172;36;198240;80;45857
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;21230;2464;877;64;313949;174;922556;588;368874
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;20950;2688;798;46;333863;164;1080741;611;375413
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;20576;2454;733;22;78367;100;552448;476;307257
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;20202;5430;665;52;256129;202;1200473;962;435101
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Feminino;Entre 18 e 25 anos;20110;82;1179;2;1010;4;46558;18;55664
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Feminino;Entre 26 e 35 anos;20823;609;954;21;203932;31;151654;216;212256
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Feminino;Entre 36 e 45 anos;20867;819;946;26;153828;22;152487;291;115905
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Feminino;Entre 46 e 55 anos;20398;647;876;23;135464;17;133351;253;94841
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Feminino;Maior que 55 anos;19867;790;822;20;107007;27;233106;372;70524
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Masculino;Entre 18 e 25 anos;20204;121;1207;5;22299;8;100213;25;16205
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Masculino;Entre 26 e 35 anos;20046;542;1012;8;49266;13;112486;149;227589
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Masculino;Entre 36 e 45 anos;20012;673;966;20;143198;20;142910;274;186009
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Masculino;Entre 46 e 55 anos;19451;596;910;24;142339;23;204274;156;73217
+Passeio nacional;SP - Vale do Paraíba e Ribeira;FIAT PALIO 1.0;Todos;Masculino;Maior que 55 anos;19319;1229;824;22;112635;29;177742;432;175839
