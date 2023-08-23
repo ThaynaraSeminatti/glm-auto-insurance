@@ -84,7 +84,7 @@ var_freq = round(var(dados_mod$FREQ_TOTAL),2)
 
 mean_freq = round(mean(dados_mod$FREQ_TOTAL),2)
 ```
-/
+
 
 Esta distribuição guarda semelhanças marcantes com modelos GLM Binomial Negativo (que envolvem o número de tentativas necessárias para alcançar o sucesso), Poisson (usado para contagem ou taxa de eventos raros visando um sucesso) e Quase-Poisson (empregado quando a média difere da variância). No contexto presente, observaremos que o modelo Poisson não se adequará de forma ótima, precisamente devido à presença de dados com sobre-dispersão, onde a variância de `r var_freq` é maior que a média de `r mean_freq`.
 
